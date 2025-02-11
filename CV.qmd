@@ -1,0 +1,9 @@
+---
+title: "Resume"
+author: "Samantha Nauman"
+image: resume.pdf
+about:
+  template: broadside
+  image-shape: rectangle
+  image-width: 20em
+---

@@ -1,0 +1,10 @@
+---
+title: "Projects"
+author: "Samantha Nauman"
+toc: false
+about:
+  template: solana
+  links:
+    - text: "ESS474 - Limnology Horsetooth Reservoir Water Analysis"
+      href: file:///Users/sammynauman/Desktop/ESS474-Limnology/G10_Horsetooth_Final_Report.html
+---
