@@ -6,5 +6,5 @@ about:
   template: solana
   links:
     - text: "ESS474 - Limnology Horsetooth Reservoir Water Analysis"
-      href: "Group 10 Horsetooth Final Report.pdf"
+      href: "files/Horsetooth-Final-Report.pdf"
 ---
