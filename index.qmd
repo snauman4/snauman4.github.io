@@ -12,7 +12,7 @@ about:
     - text: GitHub
       href: https://github.com/snauman4
     - text: Email
-      href: //snauman4@colostate.edu
+      href: mailto:snauman4@colostate.edu
     - text: Warner College of Natural Resources
 ---
 
