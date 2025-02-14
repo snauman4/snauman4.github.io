@@ -4,9 +4,10 @@ author: "Samantha Nauman"
 toc: false
 about:
   template: solana
-  links:
-    - text: "ESS474 - Limnology Horsetooth Reservoir Water Analysis"
-      href: "https://github.com/snauman4/snauman4.github.io/blob/main/files/Horsetooth-Final-Report.pdf"
 ---
 
-ESS474 - Limnology Horsetooth Reservoir Water Analysis: The project consisted of a semester-long data collection, starting from going to Horsetooth Reservoir and using fieldwork equipment such as the van dorn water sample, sonde, plankton net, Lugol's solution, chlorophyll a sampling, and a secchi disk. Following the collection of water samples, data was able to be extracted from the water. From this project, I learned a lot about how factors such as temperature, oxygen, pH, salinity, chlorophyll a, dissolved organic carbon, dissolved organic nitrogen, turbidity, and plankton populations can affect the aquatic ecosystem within a freshwater body of water.
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of the links for projects I have completed using R!
+
+## [ESS474 - Limnology Horsetooth Reservoir Water Analysis](https://github.com/snauman4/snauman4.github.io/blob/main/files/Horsetooth-Final-Report.pdf)
+
+This project consisted of a semester-long data collection, starting from going to Horsetooth Reservoir and using fieldwork equipment such as the van dorn water sample, sonde, plankton net, Lugol's solution, chlorophyll a sampling, and a secchi disk. Following the collection of water samples, data was able to be extracted from the water. From this project, I learned a lot about how factors such as temperature, oxygen, pH, salinity, chlorophyll a, dissolved organic carbon, dissolved organic nitrogen, turbidity, and plankton populations can affect the aquatic ecosystem within a freshwater body of water.
