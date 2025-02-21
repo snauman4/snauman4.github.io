@@ -15,7 +15,7 @@ website:
 
 format:
   html:
-    theme: solar
+    theme: litera
     css: styles.css
     toc: true
 
