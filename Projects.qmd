@@ -14,6 +14,6 @@ This project consisted of a semester-long data collection, starting from going t
 
 ## [ESS330 - Minnesota Tree Growth Analysis](https://github.com/snauman4/minnesota-tree-growth-lab/blob/main/Lab%202_%20Minnesota%20Tree%20Growth.pdf)
 
-This lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota. 
+This lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota.
 
 
