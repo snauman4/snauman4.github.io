@@ -32,7 +32,7 @@ This lab explored predictive modeling in hydrology using the tidymodels framewor
 
 This lab built off of Lab 6, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization. 
 
-## [ESS 330 - Distance to the Border](https://snauman4.github.io/Lab10-Distances-and-Projections/Lab-10.html)
+## [ESS 330 - Distance to the Border Lab 10](https://snauman4.github.io/Lab10-Distances-and-Projections/Lab-10.html)
 
 This spatial analysis lab taught me to re-project data with sf, compute greate-circle and Euclidean distances from thousands of US cities to national, state, and international boundaries, and visualize the patterns with context-rich maps. I also practiced combining geometry operations (st_union, st_cast, st_distance) with tidyverse workflows to quantify border-zone demographics. 
 

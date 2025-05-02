@@ -96,5 +96,12 @@
     "title": "Projects",
     "section": "ESS 330 - Final Project",
     "text": "ESS 330 - Final Project\nThis final project consisted of a intro/data/methods draft and a results/discussion draft that was later created into this final project that focuses on the differing water quality in protected and unprotected U.S. Southwest river basins. With collaboration on this project, I learned how to harvest decades of USGS daily data, aggregate it to monthly means, and compare discharge, temperature, and pH between paired protected and unprotected river basins. We employed ANOVA, Welch t-tests, and Tukey HSD to evaluate the influence of legal protected on water-quality trends, reinforcing the link between data science and conservation policy."
+  },
+  {
+    "objectID": "Projects.html#ess-330---distance-to-the-border-lab-10",
+    "href": "Projects.html#ess-330---distance-to-the-border-lab-10",
+    "title": "Projects",
+    "section": "ESS 330 - Distance to the Border Lab 10",
+    "text": "ESS 330 - Distance to the Border Lab 10\nThis spatial analysis lab taught me to re-project data with sf, compute greate-circle and Euclidean distances from thousands of US cities to national, state, and international boundaries, and visualize the patterns with context-rich maps. I also practiced combining geometry operations (st_union, st_cast, st_distance) with tidyverse workflows to quantify border-zone demographics."
   }
 ]
