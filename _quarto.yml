@@ -16,7 +16,7 @@ website:
 format:
   html:
     theme: litera
-    css: styles.css
+    scss: styles.scss
     toc: true
 
 editor: visual
