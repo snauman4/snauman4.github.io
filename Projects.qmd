@@ -6,14 +6,36 @@ about:
   template: solana
 ---
 
-In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of the links for projects I have completed using R!
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and dove into data science. Here is a collection of the links for projects I have completed using R!
 
 ## [ESS474 - Limnology Horsetooth Reservoir Water Analysis](https://github.com/snauman4/snauman4.github.io/blob/main/files/Horsetooth-Final-Report.pdf)
 
 This project consisted of a semester-long data collection, starting from going to Horsetooth Reservoir and using fieldwork equipment such as the van dorn water sample, sonde, plankton net, Lugol's solution, chlorophyll a sampling, and a secchi disk. Following the collection of water samples, data was able to be extracted from the water. From this project, I learned a lot about how factors such as temperature, oxygen, pH, salinity, chlorophyll a, dissolved organic carbon, dissolved organic nitrogen, turbidity, and plankton populations can affect the aquatic ecosystem within a freshwater body of water.
 
-## [ESS330 - Minnesota Tree Growth Analysis](https://github.com/snauman4/minnesota-tree-growth-lab/blob/main/Lab%202_%20Minnesota%20Tree%20Growth.pdf)
+## [ESS330 - Minnesota Tree Growth Analysis Lab 2](https://github.com/snauman4/minnesota-tree-growth-lab/blob/main/Lab%202_%20Minnesota%20Tree%20Growth.pdf)
 
-This lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota.
+This lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota. Working through this lab, I learned how to chain the core dplyr functions into efficient, pipe-based workflows for a real ecological data set. I also learned how to calculate forestry metrics such as basal area, classify trees by DBH (diameter base height), and interrogate long-term growth records to answer targeted biological questions. 
 
+## [ESS330 - COVID19 Lab 3](https://snauman4.github.io/csu-ess-lab3/Lab-03.html)
 
+This lab I practiced data wrangling and visualization skills using daily NY-Times county-level COVID-19 data. This data was a large dataset measuring the cases and deaths per US county across the lifespan of COVID from its early beginnings to just past the peak. In this, I learned how to download, clean, join, and generate dynamic tables and graphics with the data. The tasks taught me to automate rolling-window calculations, normalize cases per capita, and communicate trends with ggplot2, flextable, and parameter-driven Quarto documents
+
+## [ESS 330 - LTER Network Data Lab 4](https://snauman4.github.io/Lab4_LTER/lab4.html)
+
+This lab introduced us to basic statistical tests in R, including chi-square, t-tests, correlation, ANOVA, and regression tests, framed around long-term vertebrate data from the Andrews Forest LTER. We utilized data from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales. Beyond running the tests, I learned to check assumptions (normality, equal variances), visualize results, and interpret ecological meaning from p-values and confidence intervals. 
+
+## [ESS 330 - Machine Learning in Hydrology Lab 6](https://snauman4.github.io/lab6-ml-hydrology/lab6.html)
+
+This lab explored predictive modeling in hydrology using the tidymodels framework and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. With this CAMELS basin data set, I learned to build my first end-to-end tidymodels worflow: downloading files programmatically, merging attributes with powerjoin, exploring correlations, and training multiple regression models to predict mean streamflow. The lab cemented concepts like data splitting, recipes for preprocessing, cross-validation, and visual evaluation with yardstick metrics. 
+
+## [ESS 330 - Machine Learning in Hydrology Lab 8: Hyperparameter Tuning](https://snauman4.github.io/lab6-ml-hydrology/hyperparameter-tuning.html)
+
+This lab built off of Lab 6, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization. 
+
+## [ESS 330 - Distance to the Border](https://snauman4.github.io/Lab10-Distances-and-Projections/Lab-10.html)
+
+This spatial analysis lab taught me to re-project data with sf, compute greate-circle and Euclidean distances from thousands of US cities to national, state, and international boundaries, and visualize the patterns with context-rich maps. I also practiced combining geometry operations (st_union, st_cast, st_distance) with tidyverse workflows to quantify border-zone demographics. 
+
+## [ESS 330 - Final Project](https://snauman4.github.io/ESS330_FinalProject/)
+
+This final project consisted of a intro/data/methods draft and a results/discussion draft that was later created into this final project that focuses on the differing water quality in protected and unprotected U.S. Southwest river basins. With collaboration on this project, I learned how to harvest decades of USGS daily data, aggregate it to monthly means, and compare discharge, temperature, and pH between paired protected and unprotected river basins. We employed ANOVA, Welch t-tests, and Tukey HSD to evaluate the influence of legal protected on water-quality trends, reinforcing the link between data science and conservation policy. 

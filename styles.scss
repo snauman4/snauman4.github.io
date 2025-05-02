@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+
+// Import Google fonts
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&family=Lora:ital,wght@0,400..700;1,400..700&display=swap')
+
+// Colors
+$green: #8c8c5a;
+$clay: #bfa38e;
+$brown: #6b4f38;
+$cocoa: #3e2c1c;
+$gold: #f9f4ec;
+$almond: #f1e1c6;
+
+$forest: #2e4a46
+$soft: #f1f8f1;
+$moss: #a7c957;
+$walnut: #4f4a47;
+$olive: #6a8e4d;
+$birch: #f4f1eb;
+
+
+// Base document colors
+$navbar-bg: $forest; // navbar
+$navbar-fg: $soft; // navbar foreground elements
+$navbar-hl: $moss; // highlight color when hovering over navbar links
+$body-bg: $gold;// page background
+$body-color: $cocoa; // page text
+$footer-bg: $forest; // footer
+$link-color: $olive; // hyperlinks
+
+// Inline code
+$code-bg: $brown; // inline code background color
+$code-color: $gold; // inline code text color
