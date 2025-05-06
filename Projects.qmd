@@ -6,7 +6,7 @@ about:
   template: solana
 ---
 
-In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and dove into data science. Here is a collection of the links for projects I have completed using R!
+In the Spring of 2025 I took a Quantitative Reasoning class based in R. I wrote some code, and dove into data science. Here is a collection of the links for projects I have completed using R! 
 
 ## [ESS474 - Limnology Horsetooth Reservoir Water Analysis](https://github.com/snauman4/snauman4.github.io/blob/main/files/Horsetooth-Final-Report.pdf)
 
