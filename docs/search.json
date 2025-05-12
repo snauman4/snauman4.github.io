@@ -39,7 +39,7 @@
     "href": "Projects.html#ess474---limnology-horsetooth-reservoir-water-analysis",
     "title": "Projects",
     "section": "ESS474 - Limnology Horsetooth Reservoir Water Analysis",
-    "text": "ESS474 - Limnology Horsetooth Reservoir Water Analysis\nThis project consisted of a semester-long data collection, starting from going to Horsetooth Reservoir and using fieldwork equipment such as the van dorn water sample, sonde, plankton net, Lugol’s solution, chlorophyll a sampling, and a secchi disk. Following the collection of water samples, data was able to be extracted from the water. From this project, I learned a lot about how factors such as temperature, oxygen, pH, salinity, chlorophyll a, dissolved organic carbon, dissolved organic nitrogen, turbidity, and plankton populations can affect the aquatic ecosystem within a freshwater body of water."
+    "text": "ESS474 - Limnology Horsetooth Reservoir Water Analysis\n\n\n\nTemperature (C) Profile Collected at Horsetooth Reservoir\n\n\nThis project consisted of a semester-long data collection, starting from going to Horsetooth Reservoir and using fieldwork equipment such as the van dorn water sample, sonde, plankton net, Lugol’s solution, chlorophyll a sampling, and a secchi disk. Following the collection of water samples, data was able to be extracted from the water. From this project, I learned a lot about how factors such as temperature, oxygen, pH, salinity, chlorophyll a, dissolved organic carbon, dissolved organic nitrogen, turbidity, and plankton populations can affect the aquatic ecosystem within a freshwater body of water."
   },
   {
     "objectID": "Projects.html#ess330---minnesota-tree-growth-analysis",
@@ -53,35 +53,35 @@
     "href": "Projects.html#ess330---covid19-lab-3",
     "title": "Projects",
     "section": "ESS330 - COVID19 Lab 3",
-    "text": "ESS330 - COVID19 Lab 3\nThis lab I practiced data wrangling and visualization skills using daily NY-Times county-level COVID-19 data. This data was a large dataset measuring the cases and deaths per US county across the lifespan of COVID from its early beginnings to just past the peak. In this, I learned how to download, clean, join, and generate dynamic tables and graphics with the data. The tasks taught me to automate rolling-window calculations, normalize cases per capita, and communicate trends with ggplot2, flextable, and parameter-driven Quarto documents"
+    "text": "ESS330 - COVID19 Lab 3\n\n\n\nCumulative Cases in New York, Colorado, Alabama, and Ohio\n\n\nThis lab I practiced data wrangling and visualization skills using daily NY-Times county-level COVID-19 data. This data was a large dataset measuring the cases and deaths per US county across the lifespan of COVID from its early beginnings to just past the peak. In this, I learned how to download, clean, join, and generate dynamic tables and graphics with the data. The tasks taught me to automate rolling-window calculations, normalize cases per capita, and communicate trends with ggplot2, flextable, and parameter-driven Quarto documents"
   },
   {
     "objectID": "Projects.html#ess-330---lter-network-data-lab-4",
     "href": "Projects.html#ess-330---lter-network-data-lab-4",
     "title": "Projects",
     "section": "ESS 330 - LTER Network Data Lab 4",
-    "text": "ESS 330 - LTER Network Data Lab 4\nThis lab introduced us to basic statistical tests in R, including chi-square, t-tests, correlation, ANOVA, and regression tests, framed around long-term vertebrate data from the Andrews Forest LTER. We utilized data from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales. Beyond running the tests, I learned to check assumptions (normality, equal variances), visualize results, and interpret ecological meaning from p-values and confidence intervals."
+    "text": "ESS 330 - LTER Network Data Lab 4\n\n\n\nBox plot showing the carapace width (crab size) for each site, ordered by latitude\n\n\nThis lab introduced us to basic statistical tests in R, including chi-square, t-tests, correlation, ANOVA, and regression tests, framed around long-term vertebrate data from the Andrews Forest LTER. We utilized data from the Long-Term Ecological Research (LTER) Network, which is a collaborative effort involving more than 2000 scientists and students investigating ecological processes over long temporal and broad spatial scales. Beyond running the tests, I learned to check assumptions (normality, equal variances), visualize results, and interpret ecological meaning from p-values and confidence intervals."
   },
   {
     "objectID": "Projects.html#ess330---minnesota-tree-growth-analysis-lab-2",
     "href": "Projects.html#ess330---minnesota-tree-growth-analysis-lab-2",
     "title": "Projects",
     "section": "ESS330 - Minnesota Tree Growth Analysis Lab 2",
-    "text": "ESS330 - Minnesota Tree Growth Analysis Lab 2\nThis lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota. Working through this lab, I learned how to chain the core dplyr functions into efficient, pipe-based workflows for a real ecological data set. I also learned how to calculate forestry metrics such as basal area, classify trees by DBH (diameter base height), and interrogate long-term growth records to answer targeted biological questions."
+    "text": "ESS330 - Minnesota Tree Growth Analysis Lab 2\n\n\n\nFastest Growing Species: Pinus resinosa\n\n\nThis lab was centered around exploring data manipulation with dplyr using long term tree growth observation records from Minnesota. Working through this lab, I learned how to chain the core dplyr functions into efficient, pipe-based workflows for a real ecological data set. I also learned how to calculate forestry metrics such as basal area, classify trees by DBH (diameter base height), and interrogate long-term growth records to answer targeted biological questions."
   },
   {
     "objectID": "Projects.html#ess-330---machine-learning-in-hydrology-lab-6",
     "href": "Projects.html#ess-330---machine-learning-in-hydrology-lab-6",
     "title": "Projects",
     "section": "ESS 330 - Machine Learning in Hydrology Lab 6",
-    "text": "ESS 330 - Machine Learning in Hydrology Lab 6\nThis lab explored predictive modeling in hydrology using the tidymodels framework and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. With this CAMELS basin data set, I learned to build my first end-to-end tidymodels worflow: downloading files programmatically, merging attributes with powerjoin, exploring correlations, and training multiple regression models to predict mean streamflow. The lab cemented concepts like data splitting, recipes for preprocessing, cross-validation, and visual evaluation with yardstick metrics."
+    "text": "ESS 330 - Machine Learning in Hydrology Lab 6\n\n\n\nRandom Forest Model to Predict LogQMean\n\n\nThis lab explored predictive modeling in hydrology using the tidymodels framework and the CAMELS (Catchment Attributes and Meteorology for Large-sample Studies) dataset. With this CAMELS basin data set, I learned to build my first end-to-end tidymodels worflow: downloading files programmatically, merging attributes with powerjoin, exploring correlations, and training multiple regression models to predict mean streamflow. The lab cemented concepts like data splitting, recipes for preprocessing, cross-validation, and visual evaluation with yardstick metrics."
   },
   {
     "objectID": "Projects.html#ess-330---machine-learning-in-hydrology-lab-8-hyperparameter-tuning",
     "href": "Projects.html#ess-330---machine-learning-in-hydrology-lab-8-hyperparameter-tuning",
     "title": "Projects",
     "section": "ESS 330 - Machine Learning in Hydrology Lab 8: Hyperparameter Tuning",
-    "text": "ESS 330 - Machine Learning in Hydrology Lab 8: Hyperparameter Tuning\nThis lab built off of Lab 6, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization."
+    "text": "ESS 330 - Machine Learning in Hydrology Lab 8: Hyperparameter Tuning\n\n\n\nMapping Predictions Across CONUS\n\n\nThis lab built off of Lab 6, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization."
   },
   {
     "objectID": "Projects.html#ess-330---distance-to-the-border",
@@ -95,13 +95,13 @@
     "href": "Projects.html#ess-330---final-project",
     "title": "Projects",
     "section": "ESS 330 - Final Project",
-    "text": "ESS 330 - Final Project\nThis final project consisted of a intro/data/methods draft and a results/discussion draft that was later created into this final project that focuses on the differing water quality in protected and unprotected U.S. Southwest river basins. With collaboration on this project, I learned how to harvest decades of USGS daily data, aggregate it to monthly means, and compare discharge, temperature, and pH between paired protected and unprotected river basins. We employed ANOVA, Welch t-tests, and Tukey HSD to evaluate the influence of legal protected on water-quality trends, reinforcing the link between data science and conservation policy."
+    "text": "ESS 330 - Final Project\n\n\n\n6-Panel Time Series of Standardized Flow, Temperature, and pH at Unprotected and Protected Sites\n\n\nThis final project consisted of a intro/data/methods draft and a results/discussion draft that was later created into this final project that focuses on the differing water quality in protected and unprotected U.S. Southwest river basins. With collaboration on this project, I learned how to harvest decades of USGS daily data, aggregate it to monthly means, and compare discharge, temperature, and pH between paired protected and unprotected river basins. We employed ANOVA, Welch t-tests, and Tukey HSD to evaluate the influence of legal protected on water-quality trends, reinforcing the link between data science and conservation policy."
   },
   {
     "objectID": "Projects.html#ess-330---distance-to-the-border-lab-10",
     "href": "Projects.html#ess-330---distance-to-the-border-lab-10",
     "title": "Projects",
     "section": "ESS 330 - Distance to the Border Lab 10",
-    "text": "ESS 330 - Distance to the Border Lab 10\nThis spatial analysis lab taught me to re-project data with sf, compute greate-circle and Euclidean distances from thousands of US cities to national, state, and international boundaries, and visualize the patterns with context-rich maps. I also practiced combining geometry operations (st_union, st_cast, st_distance) with tidyverse workflows to quantify border-zone demographics."
+    "text": "ESS 330 - Distance to the Border Lab 10\n\n\n\nEquidistance Boundary from Mexico and Canada\n\n\nThis spatial analysis lab taught me to re-project data with sf, compute greate-circle and Euclidean distances from thousands of US cities to national, state, and international boundaries, and visualize the patterns with context-rich maps. I also practiced combining geometry operations (st_union, st_cast, st_distance) with tidyverse workflows to quantify border-zone demographics."
   }
 ]
