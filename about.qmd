@@ -3,3 +3,5 @@ title: "About"
 ---
 
 This website is created by Samantha Nauman through the help of the ESS 330 - Quantitative Reasoning course.
+
+My education at Colorado State University has given me a strong background in skills such as data sampling and analysis regarding various environmental conditions that have affected the quality of the factors involved in building a more resilient water future. I have concentrated on topics such as data analysis, sampling in aquatic ecosystems, ecosystem sustainability, ecosystem management, and population management. Courses completed that provided me with a lot of experience included learning how to analyze and manipulate data in WR416 with RStudio, Land Use Hydrology, and sampling and analyzing the health of the water within Horsetooth Reservoir using RStudio in ESS474, Limnology. Some previous experience that I feel makes me a strong competitor for this position was being a Water Conservation Intern for the Aurora Water Department for the summer 2024 season, where I practiced water-wise landscaping, repaired irrigation systems, and compiled soil data and plant survivability within the garden from past and recent studies performed.
