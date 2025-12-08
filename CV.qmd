@@ -7,21 +7,25 @@ author: "Samantha Nauman"
 
 **SKILLS**
 
-● Mark and Recapturing
+● Snowfall/Snow Hydrology Trend Analysis
 
 ● Data Analysis (Excel, RStudio, ArcGIS)
 
 ● Population Analysis and Management
 
-● Streamflow Accounting
+● Streamflow Data Application
 
 **EDUCATION**
 
 **Bachelor of Science in Ecosystem Science and Sustainability**
 
-**August 2022 - Expected May 2026**
-
 ***Minor:*** **Watershed Science**
+
+**August 2022 - May 2026**
+
+**Professional Science Master's in Ecosystem Science and Sustainability - *Water Resources***
+
+**Expected May 2027**
 
 ***GPA:*** **3.93**
 
@@ -29,7 +33,7 @@ Colorado State University (CSU), Fort Collins, Colorado
 
 **ACADEMIC EXPERIENCE**
 
-**Honors Pre-Thesis - HONR399 Spring 2025**
+**Honors Thesis - HONR499 Fall 2025**
 
 ● Wrote and presented a research proposal on beaver dam analogs to restore the post-fire watershed of Little Beaver Creek following the Cameron Peak Fire in Colorado.
 
@@ -41,13 +45,25 @@ Colorado State University (CSU), Fort Collins, Colorado
 
 ● **Member of the University Honors Program**, Colorado State University **August 2022 - Present**
 
-● **Warner College Dean’s List**, Colorado State University **Fall 2022 - Spring 2025**
+● **Warner College Dean’s List**, Colorado State University **Fall 2022 - Fall 2025**
 
 **LICENSES & CERTIFICATIONS**
 
-**● Social/Humanistic/Behavioral Research (IRB Certification)**, CITI Program **February 2025 - February 2028**
+**● Social/Humanistic/Behavioral Research (IRB Certification)**, CITI Program
+
+**February 2025 - February 2028**
+
+**● Project WET - Foundations of Water Education,** Colorado Water Center
+
+**November 2025**
 
 **EXPERIENCE**
+
+**Natural Resource Ecology Laboratory, CSU -** *Independent Study Research Assistant* \| *Snow Hydrology Lab* **January 2026 - May 2026**
+
+● Aided in research on finding ways to improve estimations of snow water equivalent (SWE) estimates using snow depth and an analysis of observed density to improve snowpack bulk density.
+
+● Presented findings at the AGU Hydrology Days conference, Carbon Utilization Research Council (CURC), and the Eastern-Western Snow Conference.
 
 **School of Global Environmental Sustainability, CSU** *- Front Desk Coordinator* **January 2024 - Present**
 
