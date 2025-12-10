@@ -158,7 +158,7 @@
     "href": "Projects.html#machine-learning-in-hydrology-hyperparameter-tuning",
     "title": "Projects",
     "section": "Machine Learning in Hydrology: Hyperparameter Tuning",
-    "text": "Machine Learning in Hydrology: Hyperparameter Tuning\n\n\n\nMapping Predictions Across CONUS\n\n\nThis lab built off of Lab 6, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization."
+    "text": "Machine Learning in Hydrology: Hyperparameter Tuning\n\n\n\nMapping Predictions Across CONUS\n\n\nThis lab built off of the first machine learning in hydrology, where we learned a lot about the Machine Learning process. Picking up from that, I constructed a ML pipeline that tested three candidate models, selected the best performer, and carried out Latin-hyper-cube grid tuning on multiple hyperparameters. I finished by finalizing the workflow, validating it with last_fit on held-out data, and mapping predictions and residuals, giving me a holistic view of model generalization."
   },
   {
     "objectID": "Projects.html#distance-to-the-border",
