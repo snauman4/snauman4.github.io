@@ -17,6 +17,7 @@ Abstract: Beaver dam analogs (BDAs) are increasingly used to restore riparian sy
 ## [Advanced Snow Hydrology - Trace Events, Precipitation Undercatch, and Probability of Snow](files/Assignment_05_574.pdf)
 
 ![Locator Map](imgs/Locator_Map.png)
+
 ![Monthly average wind speed during snowfall, rainfall, and non-precipitation periods for water year 2025 at the ASOS South Lake Tahoe (TVL) station in California](imgs/wind_precip_events.png)
 
 This assignment analyzed hourly meteorological data from the South Lake Tahoe ASOS station to examine how trace precipitation, wind-induced gauge undercatch, and precipitation phase classification affect estimates of total precipitation and snowfall. Using R, the analysis compared cumulative precipitation with and without trace events, applied temperature-dependent wind undercatch corrections, and estimated snowfall using air temperature, dewpoint temperature, and a probability-based mixed-phase method. Results demonstrated that wind correction substantially increased winter precipitation totals, and that dewpoint- and probability-based methods produced higher and more consistent snowfall estimates than a simple temperature threshold. The project highlights the importance of physically based corrections and classification methods when quantifying water inputs in mountain environments.
