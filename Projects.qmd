@@ -6,7 +6,13 @@ about:
   template: solana
 ---
 
-Included is projects or assignments completed using RStudio that demonstrate the skills gained with applications in environmental data science.  
+Presented here are selected projects and assignments that demonstrate skills developed through the use of RStudio and other analytical tools, with applications in environmental data science and related fields. 
+
+## [HONR499 Honors Thesis - Refurbishing and Evaluating the Effects of Beaver Dams in Colorado Against Climate-Mediated Fires](files/Nauman_HonorsThesis.pdf)
+
+![Picture of visitation of the BDA for stream measurements](imgs/BDA.png)
+
+Abstract: Beaver dam analogs (BDAs) are increasingly used to restore riparian systems by mimicking the hydrologic and geomorphic effects of natural beaver dams. This study evaluated the influence of a recently installed BDA on channel form and sediment dynamics in Little Beaver Creek, a post-fire watershed in the Cache la Poudre basin. Historical beaver activity and habitat suitability were assessed using the Colorado Beaver Activity Mapper (COBAM) and the Beaver Restoration Assessment Tool (BRAT). Field measurements collected after installation revealed increased sediment deposition and reduced depths upstream, formation of a downstream plunge pool reaching bedrock, and development of gravel patches associated with sediment sorting. These early-stage responses indicate that the BDA is functioning as intended by slowing flow, retaining sediment, and enhancing habitat complexity. Despite installation delays due to winter freezing, the design aligns with Colorado Parks and Wildlife’s draft Beaver Conservation and Management Strategy, providing a foundation for continued restoration and monitoring.
 
 ## [ESS474 - Limnology Horsetooth Reservoir Water Analysis](https://github.com/snauman4/snauman4.github.io/blob/main/files/Horsetooth-Final-Report.pdf)
 
